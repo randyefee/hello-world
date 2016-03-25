@@ -1,2 +1,2 @@
 # hello-world
-training for github; general purpose ideas, resources
+training for github; general purpose ideas, resources, snippits
